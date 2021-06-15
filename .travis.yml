@@ -5,6 +5,6 @@ jdk:
 deploy:
   provider: heroku
   api_key: $HEROKU_AUTH_TOKEN
-  app: book-store-demo-2
+  app: book-store-demo-3
   on:
     branch: main
